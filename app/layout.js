@@ -10,8 +10,8 @@ import { ConvexClientProvider } from "@/components/convex-client-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "AI Content Platform",
-  description: "",
+  title: "CollabFlow AI",
+  description: "Intelligent Writing & Reading Platform",
 };
 
 export default function RootLayout({ children }) {
